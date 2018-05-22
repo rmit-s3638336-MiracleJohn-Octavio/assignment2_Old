@@ -1,0 +1,21 @@
+Mark Turner, "Mark.jpeg", "", M, 2, VIC
+Zoe Foster, "", "Founder of ZFX", F, 28, VIC
+Alex Smith, "", "student at RMIT", M, 21, WA
+Ben Turner, "BenPhoto.jpg", "manager at Coles", M, 35, VIC
+Hannah White, "Hannah.png", "student at PLC", F, 14, VIC
+Alice Cooper, "Alice.png", "student", F, 21, VIC
+Bob Johnson, "Alice.png", "Eating", F, 21, VIC
+Cathy May, "Alice.png", "Coding", F, 21, VIC
+Don Great, "Alice.png", "Working", F, 21, VIC
+Deb Hopper, "Alice.png", "Coding", F, 21, VIC
+Ben Phillips, "Alice.png", "Coding", F, 21, VIC
+May Olga, "", "", F, 21, VIC
+Maya Tamara, "", "", F, 21, VIC
+Ali Paprika, "Aliali.png", "Coding", F, 21, VIC
+Chia Seed, "Chia.png", "", F, 21, VIC
+Philip Heney, "Philip.png", "Coding", F, 3, VIC
+Jane Johnson, "Jane.png", "Coding", F, 2, VIC
+John Dekker, "John.png", "", F, 22, VIC
+Mike Yammer, "Mike.jpg", "Coding", F, 16, VIC
+Yammer Boy, "Yammer.jpg", "", F, 16, VIC
+Dave Lincoln, "Dave.jpeg", "Coding", F, 33, VIC

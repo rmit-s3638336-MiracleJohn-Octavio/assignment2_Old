@@ -1,0 +1,89 @@
+/* --- Default --- */
+
+	.root *{
+	    -fx-font-size: 10pt;
+	    -fx-font-family: Verdana;
+	}
+	
+	.borders{
+	    -fx-border-style: dotted;
+	    -fx-border-width: 1.5;
+	    -fx-border-insets: -5;
+	}
+	
+/* --- Buttons --- */
+
+	/* --- iphone-blue (default) --- */
+	.iphone-blue {
+	    -fx-background-color: 
+	        #a6b5c9,
+	        linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+	        linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+	    -fx-background-radius: 5,5,4;
+	    -fx-text-fill: #242d35;
+	    -fx-font-family: "Helvetica";
+	    -fx-font-size: 12px;	    
+	    -fx-text-fill: white;
+	    -fx-padding: 10 10 10 10;
+	    -fx-background-insets: 0 0 -1 0,0,1;	     	    
+	}
+	.iphone-blue:hover {	    
+	    -fx-scale-y: 1.02;
+	    -fx-scale-x: 1.02;
+	    -fx-opacity: .95;
+	}
+	.iphone-blue:pressed {
+	    -fx-scale-y: 1.0;
+	    -fx-scale-x: 1.0;
+	    -fx-opacity: 1;
+	}
+	
+	/* --- iphone-green --- */
+	.iphone-green {
+	    -fx-background-color: 
+	        #a6b5c9,
+	        linear-gradient(#334230 0%, #42773e 20%, #417437 100%),
+	        linear-gradient(#7ea576 0%, #8ebb84 5%, #64a258 50%, #549a48 51%, #559b4a 100%);
+	    -fx-background-radius: 5,5,4;
+	    -fx-text-fill: #242d35;
+	    -fx-font-family: "Helvetica";
+	    -fx-font-size: 12px;	    
+	    -fx-text-fill: white;
+	    -fx-padding: 10 10 10 10;
+	    -fx-background-insets: 0 0 -1 0,0,1;	     	    
+	}
+	.iphone-green:hover {	    
+	    -fx-scale-y: 1.02;
+	    -fx-scale-x: 1.02;
+	    -fx-opacity: .95;
+	}
+	.iphone-green:pressed {
+	    -fx-scale-y: 1.0;
+	    -fx-scale-x: 1.0;
+	    -fx-opacity: 1;
+	}
+	
+	/* --- iphone-red --- */
+	.iphone-red {
+	    -fx-background-color: 
+	        #a6b5c9,
+	        linear-gradient(#8c5656 0%, #a25353 20%, #9b4040 100%),
+	        linear-gradient(#ba7777 0%, #c36b6b 5%, #a62727 50%, #a23232 51%, #ac4c4c 100%);
+	    -fx-background-radius: 5,5,4;
+	    -fx-text-fill: #242d35;
+	    -fx-font-family: "Helvetica";
+	    -fx-font-size: 12px;	    
+	    -fx-text-fill: white;
+	    -fx-padding: 10 10 10 10;
+	    -fx-background-insets: 0 0 -1 0,0,1;	     	    
+	}
+	.iphone-red:hover {	    
+	    -fx-scale-y: 1.02;
+	    -fx-scale-x: 1.02;
+	    -fx-opacity: .95;
+	}
+	.iphone-red:pressed {
+	    -fx-scale-y: 1.0;
+	    -fx-scale-x: 1.0;
+	    -fx-opacity: 1;
+	}
